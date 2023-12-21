@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552629523657",
+    "project_id": "ar-museum-f2b3c",
+    "storage_bucket": "ar-museum-f2b3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552629523657:android:290d216a93117f09ea6918",
+        "android_client_info": {
+          "package_name": "com.example.ar_museum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfcMpEXPF_osRzORt_3KaCKxgRe8Ujo9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

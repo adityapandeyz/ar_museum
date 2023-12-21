@@ -1,0 +1,54 @@
+name: ar_museum
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.1.1
+  #ar
+  arcore_flutter_plugin: ^0.1.0
+  ar_flutter_plugin: ^0.7.3
+
+  #ui
+  font_awesome_flutter: ^10.6.0
+  carousel_slider: ^4.2.1
+  parallax_animation: ^0.0.3
+  cached_network_image: ^3.3.0
+  blurrycontainer: ^1.0.2
+  google_fonts: ^6.1.0
+
+  #qr
+  mobile_scanner: ^3.5.5
+
+  #firebase
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.15.3
+  firebase_storage: ^11.5.6
+  cloud_firestore: ^4.13.6
+
+  model_viewer_plus: ^1.7.0
+
+
+  #state management
+  provider: ^6.1.1
+  
+  google_sign_in: ^6.2.1
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/Chicken_01/
+ 
