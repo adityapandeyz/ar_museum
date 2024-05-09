@@ -9,11 +9,11 @@ import 'package:ar_museum/screens/sign_in_with_email_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
+import 'package:flutter/servdartices.dart';
 import 'package:provider/provider.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'provider/auth_provider.dart';
+import 'provider/auth_provider.';
 import 'screens/google_sign_in_screen.dart';
 import 'screens/home_screen.dart';
 import 'utils/utils.dart';
